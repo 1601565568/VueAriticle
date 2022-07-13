@@ -10,17 +10,17 @@ file-loader作用就是帮助我们处理import/require()方式导入一个文�
 
 我们这里介绍几个最常用的placeholder:
 
-- [ext)]: 处理文件的扩展名；
+- [ext]  处理文件的扩展名；
 
-- [name]: 处理文件的名称：
+- [name]  处理文件的名称：
 
-- [hash]: 文件的内容，使用MD4的散列函数处理，生成的一个128位的hash值(32个十六进制)：
+- [hash]  文件的内容，使用MD4的散列函数处理，生成的一个128位的hash值(32个十六进制)：
 
-- [contentHash]: 在file-loader中和hash结果是一致的（在webpack的一些其他地方可能不一样
+- [contentHash]  在file-loader中和hash结果是一致的（在webpack的一些其他地方可能不一样
 
-- [hash:<length>]: 截图hash的长度，默认32个字符太长了；
+- [hash<length>]  截图hash的长度，默认32个字符太长了；
 
-- [path)]: 文件相对于webpack配置文件的路径；
+- [path]  文件相对于webpack配置文件的路径；
 
 ```javascript
 {
