@@ -19,4 +19,4 @@
 8. [devServer和VueCLI](https://github.com/1601565568/VueAriticle/blob/main/Vue%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91/webpack/devServer%E5%92%8CVueCLI.md)
 9. [css打包](https://github.com/1601565568/VueAriticle/blob/main/Vue%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91/webpack/css%E6%89%93%E5%8C%85.md)
 10. [babel和devServer](https://github.com/1601565568/VueAriticle/blob/main/Vue%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91/webpack/babel%E5%92%8CdevServer.md)
-11. [模块热替换（HMR)](https://github.com/1601565568/VueAriticle/blob/main/Vue%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91/webpack/%E6%A8%A1%E5%9D%97%E7%83%AD%E6%9B%BF%E6%8D%A2%EF%BC%88HMR).md)
+11. [模块热替换（HMR)](https://github.com/1601565568/VueAriticle/blob/main/Vue%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91/webpack/%E6%A8%A1%E5%9D%97%E7%83%AD%E6%9B%BF%E6%8D%A2.md)
